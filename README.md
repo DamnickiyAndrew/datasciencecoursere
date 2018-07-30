@@ -1,3 +1,3 @@
 # datasciencecoursere
 
-##Hello, My Freands! :-)
+## Привет друзья! :-)
